@@ -1,4 +1,4 @@
-#Token Lifetime Policy Management Scripts for Microsoft Identity Platform
+# Token Lifetime Policy Management Scripts for Microsoft Identity Platform
 
 This set of Python scripts helps manage Token Lifetime Policies for Azure AD applications. The primary goal is to extend the lifespan of bearer tokens (up to 24 hours), which is especially useful for long-running workloads that rely on token-based authentication to access cloud resources.
 
